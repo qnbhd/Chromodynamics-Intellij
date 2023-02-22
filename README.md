@@ -1,6 +1,6 @@
 # Chromodynamics-Intellij
 
-A port of an awesome theme for MagicStack [Chromodynamics](https://github.com/MagicStack/Chromodynamics)
+A port of an awesome MagicStack [Chromodynamics](https://github.com/MagicStack/Chromodynamics) theme.
 
 This theme will not look exactly the same as the original one due to differences in syntax highlighting systems.
 
